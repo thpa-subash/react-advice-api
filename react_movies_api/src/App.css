@@ -1,0 +1,13 @@
+body {
+  background: #141414;
+  color: #fff;
+}
+.card {
+  background: #fff;
+  color: #141414;
+  width: 20%;
+height:200px;
+  margin-top: 20px;
+  margin-left: 10px;
+  float: left;
+}
